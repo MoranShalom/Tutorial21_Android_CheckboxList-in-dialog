@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Tutorial21_Checkbox_Dialog</string>
+    <string name="make_an_order">Make an order</string>
+    <string name="dialog_list_title">Items available in a shop</string>
+    <string name="clear_all_button">Clear all</string>
+    <string name="Dismiss_button">Dismiss</string>
+
+    <string-array name="Shopping_Item">
+
+        <item>Orange</item>
+        <item>Milk</item>
+        <item>Sausage</item>
+        <item>Garlic</item>
+        <item>Beef</item>
+        <item>Veggies</item>
+        <item>Olive</item>
+        <item>Cheese</item>
+        <item>Mushroom</item>
+        <item>Banana</item>
+        <item>Cake</item>
+        <item>Watermelon</item>
+
+    </string-array>
+</resources>
